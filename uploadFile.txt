@@ -1,2 +1,1 @@
-uploading file
-testupload through command prompt
+test command prompt
